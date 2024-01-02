@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Quadtree Game](https://github.com/Benjam1Lct/Quadtree_SAE)
 
-- 🌱 I’m currently learning **go, sql and python**
+- 🌱 I’m currently learning **GO, SQL and PYTHON**
 
 - 👨‍💻 All of my projects are available at [lecomte-benjamin.com](lecomte-benjamin.com)
 
