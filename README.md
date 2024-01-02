@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [lecomte-benjamin.com](lecomte-benjamin.com)
 
-- 💬 Ask me about **html, css, js, python, go**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO**
 
 - 📫 How to reach me **benjamin.l06@outlook.fr**
 &nbsp;<br>
@@ -31,4 +31,4 @@
 &nbsp;<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjam1lct&theme=dark" alt="benjam1lct" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=benjam1lct&show_icons=true&theme=dark&locale=en" alt="benjam1lct" /></p>
-<p width=100%><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjam1lct&show_icons=true&theme=dark&locale=en&layout=compact" alt="benjam1lct" /></p>
+<p width=100%><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjam1lct&show_icons=true&theme=dark&locale=en&layout=compact" alt="benjam1lct" /></p>
