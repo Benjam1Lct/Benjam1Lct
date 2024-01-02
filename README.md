@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Lecomte</h1>
 <h3 align="center">A passionate IT student from France</h3>
+&nbsp;<br>
 
 
 - 🔭 I’m currently working on [Quadtree Game](https://github.com/Benjam1Lct/Quadtree_SAE)
