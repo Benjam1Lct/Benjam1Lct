@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Lecomte</h1>
 <h3 align="center">A passionate IT student from France</h3>
 
-<p align="left"> <a href="https://twitter.com/pearlclone" target="blank"><img src="https://img.shields.io/twitter/follow/pearlclone?logo=twitter&style=for-the-badge" alt="pearlclone" /></a> </p>
-
 - 🔭 I’m currently working on [Quadtree Game](https://github.com/Benjam1Lct/Quadtree_SAE)
 
 - 🌱 I’m currently learning **go ,sql and python**
