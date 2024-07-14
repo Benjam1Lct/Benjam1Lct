@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an application for creating personalized playlists and tracking the stats of your music streaming applications [Lyra](https://github.com/Benjam1Lct/lyra)
 
-- 🌱 I’m currently learning **DART and FlUTTER**
+- 🌱 I’m currently learning **DART and FLUTTER**
 
 - 👨‍💻 All of my projects are available at [lecomte-benjamin.com](lecomte-benjamin.com)
 
