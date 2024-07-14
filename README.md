@@ -3,13 +3,13 @@
 &nbsp;<br>
 
 
-- 🔭 I’m currently working on [Quadtree Game](https://github.com/Benjam1Lct/Quadtree_SAE)
+- 🔭 I’m currently working on an application for creating personalized playlists and tracking the stats of your music streaming applications [Lyra](https://github.com/Benjam1Lct/lyra)
 
-- 🌱 I’m currently learning **GO, SQL and PYTHON**
+- 🌱 I’m currently learning **DART and FlUTTER**
 
 - 👨‍💻 All of my projects are available at [lecomte-benjamin.com](lecomte-benjamin.com)
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO, KOTLIN**
 
 - 📫 How to reach me **benjamin.l06@outlook.fr**
 &nbsp;<br>
