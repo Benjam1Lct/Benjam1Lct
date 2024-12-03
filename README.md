@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on an application for creating personalized playlists and tracking the stats of your music streaming applications [Lyra](https://github.com/Benjam1Lct/lyra)
 
-- 🌱 I’m currently learning **DART and FLUTTER**
+- 🌱 I’m currently learning **GO and PHP**
 
-- 👨‍💻 All of my projects are available at [lecomte-benjamin.com](lecomte-benjamin.com)
+- 👨‍💻 All of my projects are available at [benjamin-lecomte.com](benjamin-lecomte.com)
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO, KOTLIN**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO, KOTLIN, TYPESCRIPT, PHP**
 
 - 📫 How to reach me **benjamin.l06@outlook.fr**
 &nbsp;<br>
