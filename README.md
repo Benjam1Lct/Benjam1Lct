@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **KOTLIN and GODOT**
 
-- 👨‍💻 All of my projects are available at [benjamin-lecomte.com](benjamin-lecomte.com)
+- 👨‍💻 All of my projects are available at [benjamin-lecomte.com](https://benjamin-lecomte.com/)
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON, GO, KOTLIN, TYPESCRIPT, PHP**
 
