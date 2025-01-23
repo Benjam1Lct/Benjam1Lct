@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an application for creating personalized playlists and tracking the stats of your music streaming applications [Lyra](https://github.com/Benjam1Lct/lyra)
 
-- 🌱 I’m currently learning **GO and PHP**
+- 🌱 I’m currently learning **KOTLIN and GODOT**
 
 - 👨‍💻 All of my projects are available at [benjamin-lecomte.com](benjamin-lecomte.com)
 
