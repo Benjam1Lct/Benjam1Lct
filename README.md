@@ -16,9 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pearlclone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pearlclone" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/benjamin lecomte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin lecomte" height="30" width="40" /></a>
-<a href="https://www.instagram.com/benjam1_lct/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@benjam1_lct" height="30" width="40" /></a>
+
+
 </p>&nbsp;<br>
 
 <p text-align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjam1lct" alt="benjam1lct" /></p>
