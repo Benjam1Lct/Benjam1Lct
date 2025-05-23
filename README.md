@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on an application for creating personalized playlists and tracking the stats of your music streaming applications [Lyra](https://github.com/Benjam1Lct/lyra)
 
-- 🌱 I’m currently learning **KOTLIN and GODOT**
+- 🌱 I’m currently learning **VueJS & NuxtJS**
 
 - 👨‍💻 All of my projects are available at [benjamin-lecomte.com](https://benjamin-lecomte.com/)
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO, KOTLIN, TYPESCRIPT, PHP**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, GO, KOTLIN, TYPESCRIPT, PHP, REACT**
 
 - 📫 How to reach me **benjamin.l06@outlook.fr**
 &nbsp;<br>
