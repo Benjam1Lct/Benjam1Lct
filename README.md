@@ -1,1 +1,1 @@
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Benjam1Lct&show_icons=true&theme=radical)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Benjam1Lct&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
