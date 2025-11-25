@@ -1,8 +1,21 @@
 <p align="center">
   <a href="https://github.com/Benjam1Lct">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Passionate+about+Code;Always+learning+new+things&font=Montserrat&weight=700&center=true&width=600&height=50&color=FFFFFF&vCenter=true&pause=1000&size=26" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Video+Game+Enthusiast;Vue.js+%26+React+Lover&font=Montserrat&weight=700&center=true&width=600&height=50&color=FFFFFF&vCenter=true&pause=1000&size=26" alt="Typing SVG" />
   </a>
 </p>
+
+<div align="center">
+  <p>
+    🎓 I am a final year <b>Computer Science student</b> (BUT) from France, currently completing a dual degree in <b>Video Game Development</b> at UQAC (Chicoutimi, Canada).
+  </p>
+  <p>
+    🎵 Currently working on a <b>multiplayer music quiz platform</b> (Blindtest) using <b>Vue.js</b>.
+  </p>
+  
+  <a href="https://www.benjamin-lecomte.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br/>
 
@@ -23,12 +36,12 @@
 
   <h3>🧰 Frameworks & Tools</h3>
   <p>
+      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
       <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
   </p>
 
 </div>
@@ -38,6 +51,6 @@
 <div align="center">
   <h2>⚡ Recent Activity</h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Benjam1Lct's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Benjam1Lct&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&hide_border=true" />
+    <img alt="Benjam1Lct's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Benjam1Lct&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true" />
   </a>
 </div>
