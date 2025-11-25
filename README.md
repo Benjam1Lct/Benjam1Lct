@@ -1,38 +1,14 @@
 <p align="center">
   <a href="https://github.com/Benjam1Lct">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Passionate+about+Code;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=3F51B5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Benjam1Lct"><img width="32px" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/"><img width="32px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Benjam1Lct?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Benjam1Lct?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/Benjam1Lct?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Benjam1Lct?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Passionate+about+Code;Always+learning+new+things&font=Montserrat&weight=700&center=true&width=600&height=50&color=FFFFFF&vCenter=true&pause=1000&size=26" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 
-<details open> 
-  <summary><h2>📘 My Top Projects</h2></summary>
+<div align="center">
   
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Benjam1Lct&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Benjam1Lct's Github Stats" />
-  </p>
-</details>
-
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h2>🛠️ My Favorite Tools</h2>
   
   <h3>👨‍💻 Programming Languages</h3>
   <p>
@@ -54,32 +30,14 @@
       <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
   </p>
-</details>
 
-<details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+</div>
 
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Benjam1Lct's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Benjam1Lct&theme=tokyonight&hide_border=true"/>
-    </a>
-  </p>
+<br/>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Benjam1Lct's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Benjam1Lct&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Benjam1Lct's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjam1Lct&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
-  </a>
-  
-  <br/>
-  
-  <h3>⚡ Recent Activity Graph</h3>
+<div align="center">
+  <h2>⚡ Recent Activity</h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Benjam1Lct's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Benjam1Lct&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&hide_border=true" />
   </a>
-
-</details>
+</div>
