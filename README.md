@@ -8,9 +8,6 @@
   <p>
     🎓 I am a final year <b>Computer Science student</b> (BUT) from France, currently completing a dual degree in <b>Video Game Development</b> at UQAC (Chicoutimi, Canada).
   </p>
-  <p>
-    🎵 Currently working on a <b>multiplayer music quiz platform</b> (Blindtest) using <b>Vue.js</b>.
-  </p>
   
   <a href="https://www.benjamin-lecomte.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
